@@ -1,0 +1,28 @@
+_repo: The-Mountain-that-was-God-Named-Tacoma-but-Which-is-Officially-Called-Rainier-_22056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22056-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Williams, John H. (John Harvey)
+    alias: Williams, John Harvey
+    birthdate: 1864
+    gutenberg_agent_id: '25066'
+    url: http://www.gutenberg.org/2009/agents/25066
+description: ''
+gutenberg_issued: '2007-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22056'
+  lccn: '11014182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rainier, Mount (Wash.)'
+- !lcc 'F850.5'
+title: "The Mountain that was 'God'\r\nBeing a Little Book About the Great Peak Which\
+  \ the Indians Named 'Tacoma' but Which is Officially Called 'Rainier'"
+url: http://www.gutenberg.org/ebooks/22056
